@@ -1,3 +1,5 @@
+# Cache files
+__pycache__
 *.py[cod]
 
 # C extensions
@@ -18,8 +20,10 @@ develop-eggs
 lib
 lib64
 
-# Installer logs
+# Installer logs and other log files
 pip-log.txt
+*.log
+
 
 # Unit test / coverage reports
 .coverage
@@ -32,4 +36,14 @@ nosetests.xml
 # Mr Developer
 .mr.developer.cfg
 .project
+
+# Wing IDE Project files
+*.wpr
+*.wpu
+
+# Eclipse IDE (PyDev)
 .pydevproject
+
+# Private imap login details
+/imaptoolslight/imap_accounts_private.py
+

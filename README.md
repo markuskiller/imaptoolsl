@@ -1,5 +1,5 @@
-IMAPToolsLight
-==============
+IMAP Tools Light for Python3
+============================
 
 Test, Migrate &amp; De-duplicate IMAP Email Accounts
 
